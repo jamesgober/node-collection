@@ -3,7 +3,7 @@
         <source media="(prefers-color-scheme: dark)" srcset="./assets/node-logo-light.svg">
         <img width="180" alt="Node.js logo" src="./assets/node-logo-dark.svg">
     </picture>    
-    <br><br>
+    <br>
     <strong>Node.js Collection</strong>
 </h1>
 
