@@ -18,6 +18,7 @@ TypeScript-first libraries and runtimes for high-performance Node.js application
         <tr>
             <th width="180px">Runtime</th>
             <th>Description</th>
+            <th>Stats</th>
         </tr>
     </thead>
     <tbody>
@@ -25,8 +26,12 @@ TypeScript-first libraries and runtimes for high-performance Node.js application
             <td>
                 <a href="https://github.com/jamesgober/http-runtime-node.js">
                     <b>HTTP Runtime</b>
-                </a>
-                <br><br>
+                </a>            </td>
+            <td>
+                <code>http-runtime-node.js</code>:<br>
+                Zero-dependency <b>HTTP runtime</b> with 45k+ requests per second, strict security defaults, and circuit breakers.
+            </td>
+            <td align="center">
                 <a href="https://www.npmjs.com/package/http-runtime-pro">
                     <img alt="npm version" src="https://img.shields.io/npm/v/http-runtime-pro.svg?label=version">
                 </a>
@@ -34,10 +39,6 @@ TypeScript-first libraries and runtimes for high-performance Node.js application
                 <a href="https://www.npmjs.com/package/http-runtime-pro">
                     <img alt="npm Downloads" src="https://img.shields.io/npm/dt/http-runtime-pro.svg?label=downloads">
                 </a>
-            </td>
-            <td>
-                <code>http-runtime-node.js</code>:<br>
-                Zero-dependency <b>HTTP runtime</b> with 45k+ requests per second, strict security defaults, and circuit breakers.
             </td>
         </tr>
     </tbody>
